@@ -1,0 +1,10 @@
+978000001,Java Programming,James Gosling,Programming,true
+978000002,Data Structures,Seymour Lipschutz,Computer Science,false
+978000003,Operating Systems,Abraham Silberschatz,Computer Science,true
+978000004,Database Management Systems,Raghu Ramakrishnan,Database,true
+978000005,Computer Networks,Andrew Tanenbaum,Networking,false
+978000006,Software Engineering,Ian Sommerville,Software Engineering,true
+978000007,Python Programming,Guido van Rossum,Programming,true
+978000008,Artificial Intelligence,Stuart Russell,Artificial Intelligence,true
+978000009,Machine Learning,Tom Mitchell,Artificial Intelligence,false
+978000010,Cloud Computing,Rajkumar Buyya,Cloud,true

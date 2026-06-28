@@ -1,0 +1,75 @@
+=========================================
+Library Management System
+Sample Test Data
+=========================================
+
+Sample Books
+
+ISBN: 978000001
+Title: Java Programming
+Author: James Gosling
+Genre: Programming
+
+ISBN: 978000002
+Title: Data Structures
+Author: Seymour Lipschutz
+Genre: Computer Science
+
+ISBN: 978000003
+Title: Operating Systems
+Author: Abraham Silberschatz
+Genre: Computer Science
+
+ISBN: 978000004
+Title: Database Management Systems
+Author: Raghu Ramakrishnan
+Genre: Database
+
+ISBN: 978000005
+Title: Computer Networks
+Author: Andrew Tanenbaum
+Genre: Networking
+
+-----------------------------------------
+
+Sample Members
+
+Member ID: M001
+Name: John Smith
+Contact: 9876543210
+
+Member ID: M002
+Name: Emma Johnson
+Contact: 9123456780
+
+Member ID: M003
+Name: Michael Brown
+Contact: 9988776655
+
+-----------------------------------------
+
+Sample Operations
+
+✔ Add New Book
+✔ Register Member
+✔ Search Book
+✔ Borrow Book
+✔ Return Book
+✔ View Books
+✔ View Members
+✔ Generate Report
+✔ Save Data
+✔ Load Data
+
+=========================================
+Expected Output
+
+• Books should be added successfully.
+• Members should be registered successfully.
+• Books can be searched using ISBN, title, or author.
+• Available books can be borrowed.
+• Borrowed books can be returned.
+• Reports display library statistics.
+• Data is stored in text files.
+
+=========================================
